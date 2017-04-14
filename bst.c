@@ -1,6 +1,4 @@
 /* Joey Nelson
-   663161007
-   Project 4: BST
 */
 
 #include "bst.h"
